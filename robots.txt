@@ -1,0 +1,56 @@
+# 헬리오광장부동산 robots.txt 초안 (T-20261123-02)
+# 목적: 검색엔진과 AI 검색·수집기가 모두 읽게 허용한다.
+# 주의: GitHub Pages 프로젝트 사이트(/helio-realty/)는 도메인 루트가 아니라 이 파일이 /robots.txt로 읽히지 않는다. 루트(anneshirley-dev.github.io) 저장소에 같은 내용을 두어야 효력이 있다.
+
+User-agent: *
+Allow: /
+
+# OpenAI
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+
+# Google (Gemini 학습 허용 토큰)
+User-agent: Google-Extended
+Allow: /
+User-agent: Googlebot
+Allow: /
+
+# Anthropic
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-SearchBot
+Allow: /
+User-agent: Claude-User
+Allow: /
+
+# Perplexity
+User-agent: PerplexityBot
+Allow: /
+User-agent: Perplexity-User
+Allow: /
+
+# Microsoft (Bing, Copilot)
+User-agent: Bingbot
+Allow: /
+
+# Apple
+User-agent: Applebot
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+
+# 네이버·다음
+User-agent: Yeti
+Allow: /
+User-agent: Daumoa
+Allow: /
+
+# Common Crawl (여러 AI 학습 자료의 출처)
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://anneshirley-dev.github.io/helio-realty/sitemap.xml

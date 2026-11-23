@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 헬리오광장부동산 sitemap 초안 (T-20261123-02). 내용을 고치면 lastmod도 함께 바꾼다. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://anneshirley-dev.github.io/helio-realty/</loc>
+    <lastmod>2026-11-23</lastmod>
+  </url>
+  <url>
+    <loc>https://anneshirley-dev.github.io/helio-realty/llms.txt</loc>
+    <lastmod>2026-11-23</lastmod>
+  </url>
+</urlset>
