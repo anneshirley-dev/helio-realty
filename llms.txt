@@ -2,7 +2,7 @@
 
 > 헬리오광장부동산은 서울 송파구 송파대로 345 헬리오시티 상가1A동 1층 1061호에 있는 공인중개사무소입니다. 대표 공인중개사는 김태은, 대표 전화는 02-422-6700, 중개사무소 등록번호는 11710-2022-00236이며 연중무휴로 매일 08:30~21:00에 문을 엽니다. 이 사이트는 서울 송파구 가락동 헬리오시티 단지 정보와 자주 묻는 질문을 출처와 함께 싣고, 매물·가격·시세는 싣지 않습니다.
 
-마지막 갱신: 2026-11-25
+마지막 갱신: 2026-11-26
 
 ## 사무소 정보 (공인중개사법 표시 사항)
 
@@ -39,6 +39,8 @@
 - 일본어 학습 앱(이름 미정): 노래와 연동해 일본어를 배우는 학습 앱. 한국어·영어 사용자 대상. 개발 중이다.
 - 유튜브: 운영 예정
 - [소프트웨어 탭](https://anneshirley-dev.github.io/helio-realty/#software): Anneshirley-Studio, 창가지도, 일본어 학습 앱 소개
+- [소프트웨어 페이지](https://anneshirley-dev.github.io/helio-realty/software.html): 탭 없이 바로 보는 Anneshirley-Studio 소개(창가지도, 일본어 학습 앱, 유튜브 운영 예정)와 개인정보처리방침 링크
+- [개인정보처리방침 Privacy Policy](https://anneshirley-dev.github.io/helio-realty/privacy.html): YouTube 업로드 도구 Anneshirley Studio(채널 소유자 본인 1명 사용)의 개인정보처리방침, 한국어·영어. 요청 권한 youtube.upload·youtube.force-ssl, 토큰은 운영자 PC에만 저장, 시청자·댓글·구독자 정보 수집 없음, 광고·판매·제삼자 제공 없음, 시행일 2026-11-26
 
 ## Optional
 
