@@ -39,8 +39,9 @@
 - 일본어 학습 앱(이름 미정): 노래와 연동해 일본어를 배우는 학습 앱. 한국어·영어 사용자 대상. 개발 중이다.
 - 유튜브: 운영 예정
 - [소프트웨어 탭](https://anneshirley-dev.github.io/helio-realty/#software): Anneshirley-Studio, 창가지도, 일본어 학습 앱 소개
-- [소프트웨어 페이지](https://anneshirley-dev.github.io/helio-realty/software.html): 탭 없이 바로 보는 Anneshirley-Studio 소개(창가지도, 일본어 학습 앱, 유튜브 운영 예정)와 개인정보처리방침 링크
+- [소프트웨어 페이지](https://anneshirley-dev.github.io/helio-realty/software.html): 탭 없이 바로 보는 Anneshirley-Studio 소개(창가지도, 일본어 학습 앱, 유튜브 운영 예정)와 개인정보처리방침·서비스 약관 링크
 - [개인정보처리방침 Privacy Policy](https://anneshirley-dev.github.io/helio-realty/privacy.html): YouTube 업로드 도구 Anneshirley Studio(채널 소유자 본인 1명 사용)의 개인정보처리방침, 한국어·영어. 요청 권한 youtube.upload·youtube.force-ssl, 토큰은 운영자 PC에만 저장, 시청자·댓글·구독자 정보 수집 없음, 광고·판매·제삼자 제공 없음, 시행일 2026-11-26
+- [서비스 약관 Terms of Service](https://anneshirley-dev.github.io/helio-realty/terms.html): YouTube 업로드 도구 Anneshirley Studio의 서비스 약관, 한국어·영어. 채널 소유자 본인 1명만 쓰는 무료 내부 도구(공개 가입·판매·결제 없음), 쓰면 YouTube 서비스 약관에 동의, 영상·글·음악 저작권과 커뮤니티 가이드 준수는 채널 소유자 책임, 있는 그대로 제공, 시행일 2026-11-26
 
 ## Optional
 
